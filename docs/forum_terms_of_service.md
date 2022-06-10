@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Organizer Terms of Service
+title: Forum Terms of Service
 nav_order: 2
 ---
 
-# StrataCommons Terms of Service Agreement for the Organizer
+# StrataCommons Terms of Service Agreement for the Forum
 
-StrataCommons provides our users the ability to view strata corporation related information using the Internet in a unique way. The services offered by StrataCommons Forum includes our software (including any updates, new versions or new releases thereof), including, but not limited to, our website located at stratacommons.ca (“Site”) and any other services offered by StrataCommons in connection with the Site (any and all of the foregoing are referred to as the “Services”). The Services do not include any third-party service you may interact with via the Services.
+StrataCommons provides our Forum users the ability to share strata corporation related information using the Internet in a unique way. The services offered by StrataCommons Forum includes our software (including any updates, new versions or new releases thereof), including, but not limited to, our website located at stratacommons.ca (“Site”) and any other services offered by StrataCommons in connection with the Site (any and all of the foregoing are referred to as the “Services”). The Services do not include any third-party service you may interact with via the Services.
 
 Please read the following terms and conditions (“Terms of Service”) carefully. These Terms of Service govern your access to and use of the Site and Services. The legally binding terms for your strata’s use of the Site and Services is contained in the agreement with your strata corporation.
 
@@ -18,7 +18,7 @@ StrataCommons reserves the right, in its sole discretion, to modify, discontinue
 
 ## Eligibility and Access
 
-The Site and Services are intended solely for persons who are owners or renters within the strata corporation under contract between StrataCommons and the Strata Corporation.
+The Site and Services are intended solely for persons who are owners or renters within a strata corporation or provide services to strata corporations.
 
 You agree to provide accurate, current and complete information as requested to StrataCommons in connection with your use of the Site and Services. You will immediately notify StrataCommons of any unauthorized use and you will not use StrataCommons to access or use third party services to which you do not have the right to access. StrataCommons reserves the right to suspend or terminate your access to the Site and Services if any information provided to StrataCommons in connection with your use of the Site and Services proves to be inaccurate, not current or incomplete.
 
@@ -64,7 +64,7 @@ You will not use the Site or Services to offer, display, distribute, transmit, r
 
 StrataCommons respects the intellectual property rights of others and expects its users to do the same. In accordance with the Canadian Copyright Modernization Act, StrataCommons responds expeditiously to claims of copyright infringement.
 
-If you are a copyright owner, or are authorized to act on behalf of one or authorized to act under any exclusive right under copyright and you wish to send StrataCommons a notice of alleged copyright infringement, please contract StrataCommons at jlhooton@contentgems.com:
+If you are a copyright owner, or are authorized to act on behalf of one or authorized to act under any exclusive right under copyright and you wish to send StrataCommons a notice of alleged copyright infringement, please contract StrataCommons at jlhooton@stratacommons.com:
 
 Identify the copyrighted work that you claim has been infringed, or - if multiple copyrighted works are covered by this Notice - you may provide a representative list of the copyrighted works that you claim have been infringed.
 
@@ -76,7 +76,7 @@ Provide your full legal name and your electronic or physical signature.
 
 ## Feedback
 
-We welcome and encourage you to provide feedback, comments and suggestions for improvements to the Site and Services (“Feedback”). You may submit Feedback by emailing us at contact@strataqcommons.ca. You acknowledge and agree that all Feedback will be the sole and exclusive property of StrataCommons and you hereby irrevocably assign to StrataCommons and agree to irrevocably assign to StrataCommons all of your right, title, and interest in and to all Feedback, including without limitation all worldwide patent rights, copyright rights, trade secret rights, and other proprietary or intellectual property rights therein. At StrataCommons' request and expense, you will execute documents and take such further acts as StrataCommons may reasonably request to assist StrataCommons to acquire, perfect, and maintain its intellectual property rights and other legal protections for the Feedback.
+We welcome and encourage you to provide feedback, comments and suggestions for improvements to the Site and Services (“Feedback”). You may submit Feedback by emailing us at contact@stratacommons.ca. You acknowledge and agree that all Feedback will be the sole and exclusive property of StrataCommons and you hereby irrevocably assign to StrataCommons and agree to irrevocably assign to StrataCommons all of your right, title, and interest in and to all Feedback, including without limitation all worldwide patent rights, copyright rights, trade secret rights, and other proprietary or intellectual property rights therein. At StrataCommons' request and expense, you will execute documents and take such further acts as StrataCommons may reasonably request to assist StrataCommons to acquire, perfect, and maintain its intellectual property rights and other legal protections for the Feedback.
 
 ## General Prohibitions
 
