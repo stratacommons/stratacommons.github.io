@@ -23,7 +23,7 @@ email: jlhooton@stratacommons.ca
 description: >- # this means to ignore newlines until "baseurl:"
   Documentation for the StrataCommons.ca software service.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://docs.stratacommons.ca" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://stratacommons.github.io" # "https://docs.stratacommons.ca" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 remote_theme: just-the-docs/just-the-docs
