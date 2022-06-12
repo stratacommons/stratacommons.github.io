@@ -2,7 +2,6 @@
 title: Forum Rules of the Road
 nav_order: 2
 description: "Forum Rules of the Road"
-permalink: /forum-rules-of-the-road
 ---
 
 # StrataCommons Forum - Rules of the Road

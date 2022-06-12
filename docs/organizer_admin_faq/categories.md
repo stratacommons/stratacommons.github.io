@@ -12,28 +12,28 @@ The Organizer comes with a set of standard categories that most stratas find use
 
 To edit categories, choose the **Admin** function from the main toolbar.
 
-![](/home/jlhooton/MyDrive/Documents/Stratacommons/helpfiles/helpfiles2022/categories/categories/category1.png)
+![](categories/category1.png)
 
 The admin screen will open and you may choose **Categories** from the secondary menu.
 
-![](/home/jlhooton/MyDrive/Documents/Stratacommons/helpfiles/helpfiles2022/categories/categories/category2.png)
+![](categories/category2.png)
 
 The Category edit screen will open showing all of the categories in your strata.  You'll see a **Delete** option next to those that are optional and may be edited  Clicking on delete will remove the category but not any of your documents.
 
-![](/home/jlhooton/MyDrive/Documents/Stratacommons/helpfiles/helpfiles2022/categories/categories/category3.png)
+![](categories/category3.png)
 
-Clicking on the **Edit** button opens the edit screen allowing you to change details related to the category.  Only categories that can be deleted may be edited.  When you've completed your changes, *be sure to click on the **Update category button***.
+Clicking on the **Edit** button opens the edit screen allowing you to change details related to the category.  Only categories that can be deleted may be edited.  When you've completed your changes, *be sure to click on the* **Update category button**.
 
-![](/home/jlhooton/MyDrive/Documents/Stratacommons/helpfiles/helpfiles2022/categories/categories/category4.png)
+![](categories/category4.png)
 
 You may also click on **Create new category or Create new category group** on the far right. 
 
-![](/home/jlhooton/MyDrive/Documents/Stratacommons/helpfiles/helpfiles2022/categories/categories/category5.png)
+![](categories/category5.png)
 
 Clicking on **Create new category** opens the editing screen allowing you to add categories to your strata.
 
-![](/home/jlhooton/MyDrive/Documents/Stratacommons/helpfiles/helpfiles2022/categories/categories/category6.png)
+![](categories/category6.png)
 
 Clicking on **Create new category group** sets up a header for a drop down box you may use to organize your categories.  So for example, you might want a category header that says Finance and then have all financial related categories listed under it as a drop down menu.  Only categories that can be deleted may be moved to a different group.  Form B and F categories are under the header Corporation.  You may edit all category groups.
 
-![](/home/jlhooton/MyDrive/Documents/Stratacommons/helpfiles/helpfiles2022/categories/categories/category7.png)
+![](categories/category7.png)

@@ -16,17 +16,17 @@ After you start a new conversation, scroll to the bottom of the screen and click
 
 
 
-![pin1](/home/jlhooton/Documents/Stratacommons/helpfiles/helpfiles2020/pinning/pinning/pin1.png)
+![pin1](pinning/pin1.png)
 
 
 
 The pinned document will look like:
 
-![pin2](/home/jlhooton/Documents/Stratacommons/helpfiles/helpfiles2020/pinning/pinning/pin2.png)
+![pin2](pinning/pin2.png)
 
 To unpin a conversation, first click on **More** on the main screen:
 
-![pin3](/home/jlhooton/Documents/Stratacommons/helpfiles/helpfiles2020/pinning/pinning/pin3.png)
+![pin3](pinning/pin3.png)
 
 
 
@@ -34,8 +34,8 @@ When the full conversation screen opens, click on edit message and the editing s
 
 
 
-![pin4](/home/jlhooton/Documents/Stratacommons/helpfiles/helpfiles2020/pinning/pinning/pin4.png)
+![pin4](pinning/pin4.png)
 
 With the editing screen open, click and remove the check beside Pin this Message and then click update message.
 
-![pin5](/home/jlhooton/Documents/Stratacommons/helpfiles/helpfiles2020/pinning/pinning/pin5.png)
+![pin5](pinning/pin5.png)
