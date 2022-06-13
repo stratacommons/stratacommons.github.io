@@ -52,7 +52,7 @@ Moderators have special authority; they are responsible for this forum. But so a
 
 When you see bad behaviour, don’t reply. It encourages the bad behaviour by acknowledging it, consumes your energy, and wastes everyone’s time. Every comment has a flag box that you can click on to indicate you think the comment is inappropriate. If enough flags accrue, action will be taken, either automatically or by moderator intervention.
 
-![Forum Rules of the Road](forum_rules_of_the_road/rules1.png)
+![Flagging](forum_rules_of_the_road/rules1.png)
 
 In order to maintain our community, the moderator reserves the right to remove any content and any user account for any reason at any time. Action may include a warning to the author, replacing the comment with a note that the comment has been removed as inappropriate or cancellation of the individual's account. The moderator does not preview new posts in any way; the moderator and site operators take no responsibility for any content posted by the community. The decision of the moderator is final.
 
