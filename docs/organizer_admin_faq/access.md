@@ -10,13 +10,13 @@ parent: Organizer Admin FAQ
 
 In every case to date, we've discovered that users with access difficulties involves the terms of service.   Once your admin has set a user up on the Organizer, the system will send that user a welcome email.  
 
-![](access/access1.png)
+![welcome page](access/visitwelcomepage.png)
 
 
 
 When the user clicks on the link, they go to our sign on page but must complete the process.  So far, 100% of users with sign on problems haven't done this.
 
-![](access/access2.png)
+![accept terms](access/acceptterms.png)
 
 
 
