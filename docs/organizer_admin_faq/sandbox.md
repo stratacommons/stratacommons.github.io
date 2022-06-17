@@ -4,27 +4,27 @@ nav_order: 2
 parent: Organizer Admin FAQ
 ---
 
-### How to use the Sandbox
+# How to use the Sandbox
 
 *As our strata organizer admin, I want to test and experiment with the web service.  How do I do that?*
 
 To start Sandbox Mode click on your name on the far right of the top menu bar.   In the drop down menu, click on **Turn sandbox mode on**.  
 
-![](sandbox/sandboxon.png)
+![turn on](sandbox/sandboxon.png)
 
 The screen will change and you'll see the word "(Sandbox)" on the top beside your strata name and an orange bar below the title bar indicating you're in sandbox mode.
 
-![](sandbox/sandbox2.png)
+![step 2](sandbox/sandbox2.png)
 
 To reset your sandbox, click on **Admin** in the main menu bar 
 
-![](sandbox/sandboxreset.png)
+![reset](sandbox/sandboxreset.png)
 
 and a screen opens showing the **Reset sandbox strata** button.  Everything you've done in the sandbox is erased.
 
 To turn the sandbox mode off, click on your name on the far right of the top menu bar.  In the drop down menu, click on **Turn sandbox mode off**.
 
-![](sandbox/sandboxoff.png)
+![turn off](sandbox/sandboxoff.png)
 
 
 
