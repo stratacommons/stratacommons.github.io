@@ -1,6 +1,6 @@
 ---
 title: Managing Flagged conversations
-nav_order: 5
+nav_order: 2
 parent: Organizer Admin FAQ
 ---
 

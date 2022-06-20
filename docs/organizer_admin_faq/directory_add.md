@@ -1,6 +1,6 @@
 ---
 title: How to add or remove people in your Strata
-nav_order: 4
+nav_order: 2
 parent: Organizer Admin FAQ
 ---
 
