@@ -1,6 +1,6 @@
 ---
-title: Forum
-nav_order: 7
+title: Accessing our Forum
+nav_order: 2
 parent: Organizer Admin FAQ
 ---
 

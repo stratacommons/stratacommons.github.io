@@ -1,6 +1,6 @@
 ---
-title: Access
-nav_order: 1
+title: Connect with the Organizer
+nav_order: 2
 parent: Organizer Admin FAQ
 ---
 

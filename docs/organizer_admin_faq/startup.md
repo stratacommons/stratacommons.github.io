@@ -1,5 +1,5 @@
 ---
-title: Startup
+title: Setting up your strata
 nav_order: 2
 parent: Organizer Admin FAQ
 ---

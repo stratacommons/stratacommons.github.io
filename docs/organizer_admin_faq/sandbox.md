@@ -1,5 +1,5 @@
 ---
-title: Sandbox
+title: Using the Sandbox
 nav_order: 2
 parent: Organizer Admin FAQ
 ---

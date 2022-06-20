@@ -1,6 +1,6 @@
 ---
-title: How to add custom information to your directory
-nav_order: 3
+title: Custom information in the directory
+nav_order: 2
 parent: Organizer Admin FAQ
 ---
 
