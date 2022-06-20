@@ -1,5 +1,5 @@
 ---
-title: Pinning
+title: Pinning a conversation
 nav_order: 2
 parent: Organizer Admin FAQ
 ---

@@ -1,5 +1,5 @@
 ---
-title: How to add or remove people in your Strata
+title: Add or remove people in your Strata
 nav_order: 2
 parent: Organizer Admin FAQ
 ---

@@ -1,5 +1,5 @@
 ---
-title: Form B
+title: Form B and Form F creation
 nav_order: 2
 parent: Organizer Admin FAQ
 ---

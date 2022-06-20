@@ -1,5 +1,5 @@
 ---
-title: documentformat
+title: Document formats
 nav_order: 2
 parent: Organizer Admin FAQ
 ---
