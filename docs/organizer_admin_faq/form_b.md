@@ -1,6 +1,6 @@
 ---
 title: Form B and Form F creation
-nav_order: 2
+nav_order: 7
 parent: Organizer Admin FAQ
 ---
 # Form B and Form F

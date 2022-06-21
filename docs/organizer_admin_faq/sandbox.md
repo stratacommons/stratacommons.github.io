@@ -1,6 +1,6 @@
 ---
 title: Using the Sandbox
-nav_order: 2
+nav_order: 12
 parent: Organizer Admin FAQ
 ---
 

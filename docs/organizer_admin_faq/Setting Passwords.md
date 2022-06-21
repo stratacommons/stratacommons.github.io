@@ -1,6 +1,8 @@
+---
 title: Setting Passwords
-nav_order: 2
-parent: Organizer Admin FAQ
+nav_order: 13
+parent: Organizer Admin FAQ 
+---
 
 # Setting Passwords
 

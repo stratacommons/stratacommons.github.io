@@ -1,6 +1,6 @@
 ---
 title: Document sizes
-nav_order: 2
+nav_order: 14
 parent: Organizer Admin FAQ
 ---
 # Document size and number

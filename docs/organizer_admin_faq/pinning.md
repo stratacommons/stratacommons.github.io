@@ -1,6 +1,6 @@
 ---
 title: Pinning a conversation
-nav_order: 2
+nav_order: 11
 parent: Organizer Admin FAQ
 ---
 

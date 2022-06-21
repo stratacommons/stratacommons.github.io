@@ -1,5 +1,5 @@
 title: Inappropriate behavior 
-nav_order: 2
+nav_order: 10
 parent: Organizer Admin FAQ
 
 
