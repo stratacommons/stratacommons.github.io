@@ -1,6 +1,6 @@
 ---
 title: Setting up your strata
-nav_order: 2
+nav_order: 15
 parent: Organizer Admin FAQ
 ---
 

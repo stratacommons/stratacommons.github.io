@@ -1,7 +1,8 @@
+---
 title: Inappropriate behavior 
 nav_order: 10
 parent: Organizer Admin FAQ
-
+---
 
 # Inappropriate Conversations or Documents
 
