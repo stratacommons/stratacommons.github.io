@@ -1,6 +1,6 @@
 ---
 title: Connect with the Organizer
-nav_order: 1
+nav_order: 
 parent: Organizer Admin FAQ
 ---
 

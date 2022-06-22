@@ -1,6 +1,6 @@
 ---
 title: Setting up groups
-nav_order: 9
+nav_order: 
 parent: Organizer Admin FAQ
 ---
 

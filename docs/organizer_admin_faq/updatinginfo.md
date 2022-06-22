@@ -1,9 +1,9 @@
 ---
 title: Locking the Directory
-nav_order: 18
+nav_order: 
 parent: Organizer Admin FAQ
 ---
-# Locking the Directory.
+# Locking Directory Edits
 
 *Can we lock certain information in the directory so owners can't change it?*
 

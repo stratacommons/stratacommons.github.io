@@ -1,6 +1,6 @@
 ---
 title: Custom information in the directory
-nav_order: 3
+nav_order: 
 parent: Organizer Admin FAQ
 ---
 

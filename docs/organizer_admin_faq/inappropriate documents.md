@@ -1,6 +1,6 @@
 ---
 title: Inappropriate behavior 
-nav_order: 10
+nav_order: 
 parent: Organizer Admin FAQ
 ---
 

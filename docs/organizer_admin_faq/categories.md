@@ -1,6 +1,6 @@
 ---
 title: Editing or adding categories
-nav_order: 2
+nav_order: 
 parent: Organizer Admin FAQ
 ---
 
