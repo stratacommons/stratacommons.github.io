@@ -1,5 +1,5 @@
 ---
-title: Editing or adding categories
+title: Category adding or editing.
 nav_order: 
 parent: Organizer Admin FAQ
 ---

@@ -1,5 +1,5 @@
 ---
-title: Setting up groups
+title: Group creation.
 nav_order: 
 parent: Organizer Admin FAQ
 ---

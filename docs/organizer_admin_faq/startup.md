@@ -1,10 +1,10 @@
 ---
-title: Setting up your strata
+title: Setting up your strata.
 nav_order: 
 parent: Organizer Admin FAQ
 ---
 
-# Starting your strata.
+# Setting up your strata.
 
 *Our strata would like to set up an account and have a look at your service.  How do we do that?*
 

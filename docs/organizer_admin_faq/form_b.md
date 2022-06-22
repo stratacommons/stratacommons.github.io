@@ -1,9 +1,9 @@
 ---
-title: Form B and Form F creation
+title: Form B and Form F document support.
 nav_order: 
 parent: Organizer Admin FAQ
 ---
-# Form B and Form F.
+# Form B and Form F document support.
 
 *How do I use your Form B or F Service?*
 

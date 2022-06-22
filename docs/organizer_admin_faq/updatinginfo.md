@@ -1,9 +1,9 @@
 ---
-title: Locking the Directory
+title: Locking directory edits.
 nav_order: 
 parent: Organizer Admin FAQ
 ---
-# Locking Directory Edits
+# Locking directory edits.
 
 *Can we lock certain information in the directory so owners can't change it?*
 

@@ -1,5 +1,5 @@
 ---
-title: Document sizes
+title: Size and number of document.
 nav_order: 
 parent: Organizer Admin FAQ
 ---

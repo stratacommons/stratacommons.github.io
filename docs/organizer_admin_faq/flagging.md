@@ -1,10 +1,10 @@
 ---
-title: Managing Flagged conversations
+title: Flagged conversations.
 nav_order: 
 parent: Organizer Admin FAQ
 ---
 
-# Flagging conversations.
+# Flagged conversations.
 
 *One of our owners has flagged a conversation as offensive, what do I do?*
 

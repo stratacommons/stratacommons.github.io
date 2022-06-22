@@ -1,10 +1,10 @@
 ---
-title: Using the Sandbox
+title: Sandbox mode.
 nav_order: 
 parent: Organizer Admin FAQ
 ---
 
-# Sandboxing.
+# Sandbox mode.
 
 *As our strata organizer admin, I want to test and experiment with the web service.  How do I do that?*
 

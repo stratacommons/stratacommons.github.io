@@ -1,10 +1,10 @@
 ---
-title: Document formats
+title: Library document file formats.
 nav_order: 
 parent: Organizer Admin FAQ
 ---
 
-# Document Library File Formats.
+# Library document file formats.
 
 *Why can't I upload my Word or Excel files to the Library?*
 

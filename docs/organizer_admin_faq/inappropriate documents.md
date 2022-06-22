@@ -1,10 +1,10 @@
 ---
-title: Inappropriate behavior 
+title: Inappropriate conversation or document postings. 
 nav_order: 
 parent: Organizer Admin FAQ
 ---
 
-# Inappropriate Conversations or Documents.
+# Inappropriate conversation or document postings.
 
 *Can we stop owners from uploading a document or making an inappropriate posting?*
 

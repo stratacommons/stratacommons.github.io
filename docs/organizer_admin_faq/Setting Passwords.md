@@ -1,5 +1,5 @@
 ---
-title: Setting Passwords
+title: Setting passwords.
 nav_order: 
 parent: Organizer Admin FAQ 
 ---

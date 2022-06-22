@@ -1,5 +1,5 @@
 ---
-title: Add or remove people in your Strata
+title: Directory editing.
 nav_order: 
 parent: Organizer Admin FAQ
 ---

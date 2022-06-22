@@ -1,10 +1,10 @@
 ---
-title: Custom information in the directory
+title: Customise the directory.
 nav_order: 
 parent: Organizer Admin FAQ
 ---
 
-# Customize your directory.
+# Customise the directory.
 
 *Our strata wants to track key fobs and parking spots for units.  How do we do this?*
 
