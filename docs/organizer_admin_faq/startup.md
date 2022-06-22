@@ -4,7 +4,7 @@ nav_order: 15
 parent: Organizer Admin FAQ
 ---
 
-# How to create an account and start your strata.
+# Starting your strata.
 
 *Our strata would like to set up an account and have a look at your service.  How do we do that?*
 

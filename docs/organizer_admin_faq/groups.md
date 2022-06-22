@@ -4,7 +4,7 @@ nav_order: 9
 parent: Organizer Admin FAQ
 ---
 
-# How to setup and use groups.
+# Group creation.
 
 *Our strata has a number of committees and recreation groups.  How can we set up the Organizer to help them?*
 

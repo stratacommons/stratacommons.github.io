@@ -4,7 +4,7 @@ nav_order: 5
 parent: Organizer Admin FAQ
 ---
 
-# Types of Library Files
+# Document Library File Formats.
 
 *Why can't I upload my Word or Excel files to the Library?*
 

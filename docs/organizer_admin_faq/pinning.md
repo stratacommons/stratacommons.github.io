@@ -4,7 +4,7 @@ nav_order: 11
 parent: Organizer Admin FAQ
 ---
 
-# How to pin an important conversation to the top of the conversation service.
+# Pinning an important conversation.
 
 *My council wants to keep the AGM documents at the top of the message board for the next couple of weeks.  How do I do this?*
 

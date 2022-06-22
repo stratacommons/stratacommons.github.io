@@ -3,7 +3,7 @@ title: Document sizes
 nav_order: 14
 parent: Organizer Admin FAQ
 ---
-# Document size and number
+# Size and number of documen
 
 *Is there any size limitation for file uploads to the library?*
 

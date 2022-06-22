@@ -4,7 +4,7 @@ nav_order: 3
 parent: Organizer Admin FAQ
 ---
 
-# How to add custom information to your directory.
+# Customize your directory.
 
 *Our strata wants to track key fobs and parking spots for units.  How do we do this?*
 

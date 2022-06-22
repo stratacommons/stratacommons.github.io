@@ -4,7 +4,7 @@ nav_order: 6
 parent: Organizer Admin FAQ
 ---
 
-# Managing flagged conversations.
+# Flagging conversations.
 
 *One of our owners has flagged a conversation as offensive, what do I do?*
 

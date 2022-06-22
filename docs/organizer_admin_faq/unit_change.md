@@ -4,7 +4,7 @@ nav_order: 16
 parent: Organizer Admin FAQ
 ---
 
-# How to change a unit number.
+# Unit number change.
 
 *We've had an owner move to another unit in the building.  How do we change that on the directory?*
 

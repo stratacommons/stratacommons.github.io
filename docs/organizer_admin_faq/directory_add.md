@@ -4,7 +4,7 @@ nav_order: 4
 parent: Organizer Admin FAQ
 ---
 
-# How to add or remove people in your Strata
+# Directory editing.
 
 *We've are seeing some turnover in our strata.  How do we add or remove people from the directory?*
 

@@ -4,7 +4,7 @@ nav_order: 8
 parent: Organizer Admin FAQ
 ---
 
-# How to help your owners access the Forum.
+# Forum access for owners.
 
 *We have owners who want to join the StrataCommons Forum.  How do we do this?*  
 

@@ -4,7 +4,7 @@ nav_order: 12
 parent: Organizer Admin FAQ
 ---
 
-# How to use the Sandbox
+# Sandboxing.
 
 *As our strata organizer admin, I want to test and experiment with the web service.  How do I do that?*
 

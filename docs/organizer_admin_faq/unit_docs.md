@@ -4,7 +4,7 @@ nav_order: 17
 parent: Organizer Admin FAQ
 ---
 
-# How to attach documents to a unit.
+# Unit document attachment.  
 
 *We've had an owner submit an alteration and indemnity agreement to make a significant change to the strata.  How do we track this for future form B's?*
 

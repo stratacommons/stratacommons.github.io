@@ -4,7 +4,7 @@ nav_order: 2
 parent: Organizer Admin FAQ
 ---
 
-# How to edit or add categories.
+# Category adding or editing.
 
 *We have a different filing system and don't want to use the Organizer's categories.  Can we change these?*
 
