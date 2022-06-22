@@ -4,7 +4,7 @@ nav_order: 13
 parent: Organizer Admin FAQ 
 ---
 
-# Setting Passwords
+# Setting Passwords.
 
 *I have a user who has forgotten their password and has asked me to tell them what it is.  How do I do this?*
 

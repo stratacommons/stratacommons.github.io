@@ -3,7 +3,7 @@ title: Form B and Form F creation
 nav_order: 7
 parent: Organizer Admin FAQ
 ---
-# Form B and Form F
+# Form B and Form F.
 
 *How do I use your Form B or F Service?*
 

@@ -5,6 +5,6 @@ nav_order: 2
 has_children: true
 ---
 
-# Organizer Admin FAQ
+# Organizer Admin FAQ.
 
 This section answers questions commonly asked by Organizer Admins.

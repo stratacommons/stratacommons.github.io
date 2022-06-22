@@ -4,7 +4,7 @@ nav_order: 1
 parent: Organizer Admin FAQ
 ---
 
-# Accessing the Organizer
+# Accessing the Organizer.
 
 *One of our owners can't access StrataCommons on their computer (phone, laptop, tab etc.)  What's wrong?*
 

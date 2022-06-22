@@ -4,7 +4,7 @@ title: Organizer Terms of Service
 nav_order: 2
 ---
 
-# StrataCommons Terms of Service Agreement for the Organizer
+# StrataCommons Terms of Service Agreement for the Organizer.
 
 StrataCommons provides our users the ability to view strata corporation related information using the Internet in a unique way. The services offered by StrataCommons Forum includes our software (including any updates, new versions or new releases thereof), including, but not limited to, our website located at stratacommons.ca (“Site”) and any other services offered by StrataCommons in connection with the Site (any and all of the foregoing are referred to as the “Services”). The Services do not include any third-party service you may interact with via the Services.
 

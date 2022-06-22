@@ -4,7 +4,7 @@ nav_order: 2
 description: "Forum Rules of the Road"
 ---
 
-# StrataCommons Forum - Rules of the Road
+# StrataCommons Forum - Rules of the Road.
 {: .no_toc }
 
 ## Table of contents

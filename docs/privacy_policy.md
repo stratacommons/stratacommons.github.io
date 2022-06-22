@@ -4,7 +4,7 @@ title: Privacy Policy
 nav_order: 2
 ---
 
-# StrataCommons Personal Information Protection Policy
+# StrataCommons Personal Information Protection Policy.
 
 ## Introduction
 

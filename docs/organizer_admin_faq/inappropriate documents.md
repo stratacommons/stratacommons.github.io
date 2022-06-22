@@ -4,7 +4,7 @@ nav_order: 10
 parent: Organizer Admin FAQ
 ---
 
-# Inappropriate Conversations or Documents
+# Inappropriate Conversations or Documents.
 
 *Can we stop owners from uploading a document or making an inappropriate posting?*
 

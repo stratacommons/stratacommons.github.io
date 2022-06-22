@@ -3,7 +3,7 @@ title: Locking the Directory
 nav_order: 18
 parent: Organizer Admin FAQ
 ---
-# Locking the Directory
+# Locking the Directory.
 
 *Can we lock certain information in the directory so owners can't change it?*
 
