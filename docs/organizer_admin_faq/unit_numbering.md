@@ -12,9 +12,9 @@ On the initial strata sign up screen,  there is a section that lets you set the 
 
 ![floor numbering](unitnumbering/floornumbering.png)
 
-If you enter your total number of units (30 in this example), and a start number (101) the system will number the units as 101, 102, 103 ... to 130.
+If you enter your total number of units (30), and a start number (101) the system will number the units as 101, 102, 103 ... to 130.
 
-In this example, you want to set up a floor by floor numbering system.  Click on the "Add another block of unit numbers" and create a block for each floor.  
+This won't do for everyone and in this case, you want to set up a floor by floor numbering system.  Click on the "Add another block of unit numbers" and create a block for each floor.  
 
 ![add floors](unitnumbering/addfloors.png)
 
