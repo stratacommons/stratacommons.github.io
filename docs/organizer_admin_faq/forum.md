@@ -1,5 +1,5 @@
 ---
-title: Forum accessing for owners.
+title: Forum access for owners.
 nav_order: 
 parent: Organizer Admin FAQ
 ---
