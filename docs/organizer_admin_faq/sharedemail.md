@@ -1,0 +1,3 @@
+If we have a couple in one unit sharing one email address, can they have separate owner accounts and will they receive two copies of the email digest?  So far we have been adding them as a single entry, ie Smith, John and Mary.” 
+
+You're entering John and Mary exactly right.  The email address is the account user name for sign on so there's only one email allowed per sign up which means one digest per account.  We've asked owners what they want in our strata - some want their own account and some want a joint account.  Those that want their own account have to provide a separate email.
