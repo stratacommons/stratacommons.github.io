@@ -1,6 +1,9 @@
-title: Forum Manual
+---
+description: "StrataCommons Forum Manual"
+layout: default
 nav_order: 2
-description: "Forum Manual"
+title: Forum - Manual
+---
 
 # Forum Manual
 
@@ -34,7 +37,7 @@ The software is "responsive to design" and its appearance will change depending 
 
 You may sign on at https://stratacommons.ca/forum/sign_up.  To protect your privacy, the web application will ask you to set your password on this screen.  Please check off the boxes giving StrataCommons Forum the right to send you email and indicating you accept the agreements for use. You will also be asked to indicate your primary geographic area of interest.
 
-![signon](scforum/signon.png)
+![signon](forum_manual/signon.png)
 
 ### Note
 
@@ -44,7 +47,7 @@ Once you've logged on, you may return to the Forum by typing in https://strataco
 
 If a you forget your password, there is a reset password feature in the software.  After you click on **Sign in** on the StrataCommons Forum web page, click on **Forgot password?** under the **Log in** button.  A **Reset your password** box opens asking you to enter the email you use for StrataCommons Forum (most likely your home email.)  After you have entered your email address, click on "Send me the email."  StrataCommons will send an email to your email account with a link that you should click on.  This will take you to a StrataCommons page asking you to enter a new password.  The link has a time limit.
 
-![signon](scforum/pw.png)
+![signon](forum_manual/pw.png)
 
 ### Logging Off
 
@@ -60,7 +63,7 @@ The main conversation screen is divided into two parts.  On the left under the t
 
 On the right hand side of the screen you will see a button to create a new conversation and underneath that a heading called Filter conversations which allows you to control what you see in the left column.
 
-![signon](scforum/conversation1.png)
+![signon](forum_manual/conversation1.png)
 
 ### Starting a Conversation
 
@@ -112,19 +115,19 @@ Uploading a new document will also add this document to the Library service as w
 
 Finally, click on this button to post your conversation or comments.  
 
-![signon](scforum/conversation2.png)
+![signon](forum_manual/conversation2.png)
 
 ### Adding Comments
 
 You may participate in a conversation by clicking on the box "**more...** listed under the message." A new screen opens showing you the original posting and a text box allowing you to type in your comment and post it.  Other comments are posted beneath the comment box.
 
-![signon](scforum/conversation3.png)
+![signon](forum_manual/conversation3.png)
 
 ### Inappropriate Conversation or Comment
 
 Once you've clicked on the **More** box and opened the conversation, you'll see that every conversation and comment includes the option of clicking on a box with **Flag** and a flag icon located beneath the conversation or comment.  The screen will change and a notice appears **We flagged the message and will review it.**  The system will alert the moderator(s) who will review the comment according to the **Rules of the Road** document.  If they agree the comment is inappropriate, the comment will be removed and a note posted that this has happened.  If an individual persists in posting inappropriate comments, their account may be cancelled.
 
-![signon](scforum/conversation4.png)
+![signon](forum_manual/conversation4.png)
 
 ### Filtering Conversations
 
@@ -142,19 +145,19 @@ StrataCommons Forum uses a similar search function in all its services found on 
 
 **Reset filters:**  Finally at the bottom right there is a box titled "Reset Filters" for you to return to the defaults.
 
-![signon](scforum/conversation5.png)
+![signon](forum_manual/conversation5.png)
 
 ## Calendar Service
 
 The **Calendar Service** is the second service found on the top bar of the web site  assuming your computer’s browser is mostly full screen.  If you’re using a tablet or your browser is partial screen, click on the three lines on the far right of the top bar to expand the main menu.)  When you click on this, a list of calendar events appears showing the events in date order.  
 
-![signon](scforum/calendar1.png)
+![signon](forum_manual/calendar1.png)
 
 ### Creating a New Event
 
 In any view, you may select the **New event** button on the top right hand side and a **New event** box will open. The **New event** box contains several choices including a **Cancel** button on the right hand top.
 
-![signon](scforum/calendar2.png)
+![signon](forum_manual/calendar2.png)
 
 #### Event name
 
@@ -180,7 +183,7 @@ By clicking in the **Description** text box, you may add an explanation related 
 
 Finally click on the **Create event** box at the bottom to create your new calendar entry.  A new box will open allowing you to post a note to the conversation board letting everyone know that a new event has been added to the calendar.  
 
-![signon](scforum/calendar3.png)
+![signon](forum_manual/calendar3.png)
 
 ### Filtering Calendar Events
 
@@ -192,11 +195,11 @@ StrataCommons Forum uses a similar search function in all its services found on 
 
 This service is found on the top right of the menu bar in normal screen mode between the conversations Service and the Library.  Clicking on the bar opens up a new screen that by defaults shows a list of strata related businesses and their contact information.  Please contact the Web Manager to have your business listed.  
 
-![signon](scforum/directory1.png)
+![signon](forum_manual/directory1.png)
 
 The Directory:
 
-![signon](scforum/directory2.png)
+![signon](forum_manual/directory2.png)
 
 ### Filtering the Directory
 
@@ -208,23 +211,23 @@ StrataCommons Forum uses a similar search function in all its services found on 
 
 The **Library** Service is found on the main menu bar across the top next to the Directory Service.  (This assumes your computer’s browser is mostly full screen.  If you’re using a tablet or your browser is partial screen, click on the three lines on the far right of the top bar to expand the main menu.)  Clicking on this opens the **Documents** screen by default.  You will see another header called **Web links** beside **Documents** which when clicked will show the **Web Link** service.  These two services provide a resource to store and retrieve important documents and web sites. 
 
-![signon](scforum/library1.png)
+![signon](forum_manual/library1.png)
 
 The default document screen has a large box on the left showing documents listed in date order with their name, group, category and date of creation.  There is a button to **Create new document** on the right at the top and the **Filter documents** service which provides a detailed search function.
 
 The **Web links** screen has a similar layout.
 
-![signon](scforum/library2.png)
+![signon](forum_manual/library2.png)
 
 ### Reading a Document
 
 In the default document screen, you will see document names highlighted in the left hand column.  
 
-![signon](scforum/library3.png)
+![signon](forum_manual/library3.png)
 
 Click on the document name and a screen will open showing more detailed information related to the document including a full description of when it was uploaded, by whom, and the topic or category.  Any comments on the document made by other Forum members are included.  In the middle of the document screen is a button **Open file** which when clicked will open the file in the StrataCommons Forum screen on your web browsers (depending on your settings, your browser may download the document or pop up a notice asking what you'd like to do. )
 
-![signon](scforum/library4.png)
+![signon](forum_manual/library4.png)
 
 Only files loaded in PDF format are permitted in the Forum.  Most word processors allow the creator to save their documents in this format and it makes online access for all possible.  Many owners may not have the necessary software to read a file created by a new version of Microsoft Word for example.
 
@@ -234,7 +237,7 @@ Click on your browser's back button to take you back to the specific document sc
 
 In the **Documents** screen there is a **Create new document** button on the right hand side at the top above the **Select document category** heading.  Clicking on this will open a screen to add a document.  The **New document** screen has a number of options for your use.
 
-![signon](scforum/library5.png)
+![signon](forum_manual/library5.png)
 
 #### Upload a file from your computer
 
@@ -262,7 +265,7 @@ Articles are listed by the date they are uploaded to the library with the most r
 
 There is a **Cancel** button on the top right side of the screen to stop the document creation process.
 
-![signon](scforum/library6.png)
+![signon](forum_manual/library6.png)
 
 ### Filtering Documents
 
@@ -274,17 +277,17 @@ StrataCommons Forum uses a similar search function in all its services found on 
 
 Clicking on the **Web links** button at the top of the **Library** screen will open the web links service. 
 
-![signon](scforum/weblink1.png)
+![signon](forum_manual/weblink1.png)
 
 You will see a list of the available web link names on the left with a Web Address beside them.   Clicking on the web address will take you directly from StrataCommons Forum to that web site.  Clicking on the web link name will give you further details on the link to help you decide if the link is the best one for you to use. 
 
-![signon](scforum/weblink2.png)
+![signon](forum_manual/weblink2.png)
 
 ### Adding a Web Link
 
 On the top of your application on the right hand side there is a **Create new web link** button that will open a screen allowing you to create a new web link.  
 
-![signon](scforum/weblink3.png)
+![signon](forum_manual/weblink3.png)
 
 #### Web link name
 
@@ -306,7 +309,7 @@ Click in the **Description** box and enter a one or two sentence detailed descri
 
 Select the provincial region that describes the document's relevance.  Use the default **British Columbia** if everyone would be interested.
 
-![signon](scforum/weblink4.png)
+![signon](forum_manual/weblink4.png)
 
 ### Filtering Links
 
@@ -318,15 +321,15 @@ StrataCommons Forum uses a similar search function in all its services found on 
 
 StrataCommons Forum allows Forum users to update their personal information.  Clicking on the hamburger icon and then clicking on your user name at the bottom of the menu or if you are in desktop mode click on your user name on the far right.  This will drop down three choices: **Your Profile**, **Log out** and **Organizer** (if your strata is using our management software.)
 
-![signon](scforum/personal1.png)
+![signon](forum_manual/personal1.png)
 
-![signon](scforum/personal2.png)
+![signon](forum_manual/personal2.png)
 
 ### Your Profile
 
 Clicking on your profile will open a screen that shows a series of boxes allowing you  to change your **Name**, preferred **Location**, **Email** address and your **Password** if you wish. Click on any of these and enter the new information.  You may also remove your information from the Forum by clicking on **Cancel my account.**  You also can set the frequency of summary reports mailed to your address.  Finally, click on **Update user** and the system will make these changes.
 
-![signon](scforum/personal3.png)
+![signon](forum_manual/personal3.png)
 
 ### Logging Out
 
