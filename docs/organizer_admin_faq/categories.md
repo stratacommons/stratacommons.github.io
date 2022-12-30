@@ -1,7 +1,7 @@
 ---
 title: Category adding or editing.
 nav_order: 
-parent: Organizer Admin FAQ
+parent: Organizer Admin - FAQ
 ---
 
 # Category adding or editing.

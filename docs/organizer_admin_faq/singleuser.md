@@ -1,7 +1,7 @@
 ---
 title: Single user communication.
 nav_order: 
-parent: Organizer Admin FAQ 
+parent: Organizer Admin - FAQ
 ---
 
 # Single user communication.

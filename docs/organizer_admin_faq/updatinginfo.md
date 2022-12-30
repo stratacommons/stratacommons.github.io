@@ -1,7 +1,7 @@
 ---
 title: Locking directory edits.
 nav_order: 
-parent: Organizer Admin FAQ
+parent: Organizer Admin - FAQ
 ---
 # Locking directory edits.
 

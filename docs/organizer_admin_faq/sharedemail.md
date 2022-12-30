@@ -1,7 +1,7 @@
 ---
 title: Shared email accounts.
 nav_order: 
-parent: Organizer Admin FAQ 
+parent: Organizer Admin - FAQ
 ---
 
 # Shared email accounts.

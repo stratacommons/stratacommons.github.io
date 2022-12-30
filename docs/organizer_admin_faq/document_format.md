@@ -1,7 +1,7 @@
 ---
 title: Library document file formats.
 nav_order: 
-parent: Organizer Admin FAQ
+parent: Organizer Admin - FAQ
 ---
 
 # Library document file formats.

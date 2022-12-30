@@ -1,10 +1,10 @@
 ---
 title: Unit document attachment.
 nav_order: 
-parent: Organizer Admin FAQ
+parent: Organizer Admin - FAQ
 ---
 
-# Unit document attachment.  
+# Unit document attachment.
 
 *We've had an owner submit an alteration and indemnity agreement to make a significant change to the strata.  How do we track this for future form B's?*
 

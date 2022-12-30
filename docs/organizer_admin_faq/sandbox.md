@@ -1,7 +1,7 @@
 ---
 title: Sandbox mode.
 nav_order: 
-parent: Organizer Admin FAQ
+parent: Organizer Admin - FAQ
 ---
 
 # Sandbox mode.

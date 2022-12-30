@@ -1,7 +1,7 @@
 ---
 title: Form B and Form F document support.
 nav_order: 
-parent: Organizer Admin FAQ
+parent: Organizer Admin - FAQ
 ---
 # Form B and Form F document support.
 

@@ -1,7 +1,7 @@
 ---
 title: Pinning an important conversation.
 nav_order: 
-parent: Organizer Admin FAQ
+parent: Organizer Admin - FAQ
 ---
 
 # Pinning an important conversation.

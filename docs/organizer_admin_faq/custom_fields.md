@@ -1,7 +1,7 @@
 ---
 title: Customise the directory.
 nav_order: 
-parent: Organizer Admin FAQ
+parent: Organizer Admin - FAQ
 ---
 
 # Customise the directory.

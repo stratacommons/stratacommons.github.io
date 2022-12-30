@@ -1,7 +1,7 @@
 ---
 title: Directory editing.
 nav_order: 
-parent: Organizer Admin FAQ
+parent: Organizer Admin - FAQ
 ---
 
 # Directory editing.
