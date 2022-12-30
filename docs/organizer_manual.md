@@ -1,7 +1,8 @@
 ---
-title: StrataCommons Manual
+description: "StrataCommons Organizer Manual"
+layout: default
 nav_order: 2
-description: "StrataCommons Manual"
+title: Organizer - Manual
 ---
 
 # StrataCommons Manual.
@@ -32,7 +33,7 @@ After testing most available browsers, there is no one that works better than ot
 
 The software utilizes "responsive design" to adapt its appearance depending on the size of the browser display on your web application.  These help files assume you are using a full (or 2/3 full) screen web browser program (Explorer, Chrome etc.) on your desktop or laptop computer.  If your screen window is less than 2/3, the software adjusts to fit as much as it can across the top.  Additional menu items will show up when you click the hamburger icon the right.  Those using a hand held device will need to click on the "hamburger" icon on the right to show menus.  Here's a screen shot showing a smaller desktop screen with the hamburgher:
 
-![hamburger1](schelp/hamburger1.png "Hamburger (hover tooltip)")
+![hamburger1](organizer_manual/hamburger1.png "Hamburger (hover tooltip)")
 
 In addition, most titles and fields have helpful notes and comments that will pop up when you hover your mouse over them.  
 
@@ -40,7 +41,7 @@ In addition, most titles and fields have helpful notes and comments that will po
 
 The software is organized by groups, categories and services.  *Services* are shown across the top of the web page and underneath the browsers bookmarks or command tool bar as a horizontal series of headers. These headers include  **Conversations, Calendar, Requests, Directory, Library, Website, Help and User Name.  If you are your strata's web administrator you will also see Admin.**
 
-![Conversation](schelp/messagescreen5.png " Message screen (hover tooltip)") 
+![Conversation](organizer_manual/messagescreen5.png " Message screen (hover tooltip)")
 
 *Groups* may include owners, tenants, and council, gardening committee, maintenance or others.  The StrataCommons Organizer web administrator will add you to these groups as appropriate.  As well, the Strata may ask their web administrator to add customized groups to better reflect the organizational structure of the Strata and add the appropriate group members.  Some of these might include adding for example, web site management, maintenance, gardening, social etc.  It is a valuable time saving exercise for the Strata Council to consider what groups make sense early in the set up process but these can be added at any time.
 
@@ -56,11 +57,11 @@ These messages are a **no reply** service.  Should a user wish to comment, they 
 
 Your web administrator will send you an email inviting you to join StrataCommons Organizer and clicking on the link in the email will take you to the initial sign in screen.  The following shows a typical invitation as it would appear in a google mail account:
 
-![welcome email](schelp/welcome_email2.png "Welcome email (hover tooltip)")
+![welcome email](organizer_manual/welcome_email2.png "Welcome email (hover tooltip)")
 
 Click on the **visit the welcome page** link in the email to see the welcome page and sign up.  To protect your privacy, the web application will ask you to set your password on this screen.  Please check off the boxes giving StrataCommons Organizer the right to send you email and indicating you accept the agreement for use.  Please remember your password although should you forget StrataCommons Organizer can send you a temporary one that you can use to create a new one.  
 
-![first sign on](schelp/first_sign_on3.png "First sign on (hover tooltip)")
+![first sign on](organizer_manual/first_sign_on3.png "First sign on (hover tooltip)")
 
 Once you've completed the form, click on **I am ready to start using StrataCommons** button and the software will take you to your StrataCommons Organizer site.
 
@@ -70,17 +71,17 @@ Once you've moved to the Organizer site, you may want to create a bookmark.  Cre
 
 StrataCommons Organizer allows individual users or Owners to update their personal information including phone number, unit number and email.  Clicking on the hamburger icon and then clicking on your user name at the bottom of the menu or if you are in desktop mode click on your user name on the far right.  
 
-![profile service](schelp/profile1.png)
+![profile service](organizer_manual/profile1.png)
 
 This will drop down three choices: **Your Profile**, **Log out** and **Turn sandbox mode on.**
 
-![profile service](schelp/profile2.png)
+![profile service](organizer_manual/profile2.png)
 
 #### Your Profile
 
 Clicking on your profile will open a screen that shows a series of boxes allowing you  to change your **Name**, **Email** address, your **Password**, **Unit**, add a **Phone #** and change your **Notification Settings** if you wish. Click on any of these and enter the new information.  You will also see the **Groups** your system administrator has added you into.   
 
-![profile service](schelp/profile3.png)
+![profile service](organizer_manual/profile3.png)
 
 The **Unit** box opens a drop down list of the units in your strata and you must choose one of these.  Contact your system administrator if there are other issues related to these changes such as a change to the groups you belong to or you are moving out of the Strata. Finally you may uncheck the **Owner opts in to receive email notifications from StrataCommons** box.  If you do this, you will no longer receive messages from the Strata directly to your home email box.  These will still be available to you on the conversation board.  Finally, click on **Update owner** and the system will make these changes.
 
@@ -92,7 +93,7 @@ In addition, the Organizer can send you a digest of postings happening in your r
 
 StrataCommons Organizer has created a "sandbox" mode.  The sandbox is a safe place for you to learn the software without adding to the official strata records.  What is entered into the sandbox can and will be removed on a regular basis.  You know you are in the *sandbox* because it has orange bars top and bottom.  See the following screenshot.
 
-![Sandbox](schelp/sandbox4.png "Sandbox (hover tooltip)")
+![Sandbox](organizer_manual/sandbox4.png "Sandbox (hover tooltip)")
 
 The default is the live strata service not sandbox.  If you wish to change from one to the other, you may click on your name in the services bar and then click on **Turn sandbox mode "off" or "on".**  StrataCommons Organizer remembers what mode you were in and by default returns you to either the site or the sandbox.
 
@@ -104,13 +105,13 @@ If a you forget your password, there is a reset password feature in the software
 
 You may simply close your browsers window and then if you return to the website within the next several weeks, you will be logged back in automatically. If you want to log off the site, click on your user name in the right hand top  corner and select the option to **Log out**.  After you **Log out** and you return to the site, you will have to re-enter your credentials.
 
-![profile service)](schelp/profile2.png "profile service (hover tooltip)")
+![profile service)](organizer_manual/profile2.png "profile service (hover tooltip)")
 
 ## Conversation service
 
 The first screen that appears when you enter the web application is the conversation service which looks like the following (your messages may be different!):
 
-![Conversation](schelp/messagescreen5.png " Message screen (hover tooltip)") 
+![Conversation](organizer_manual/messagescreen5.png " Message screen (hover tooltip)")
 
 All of the conversation topics relating to the groups you belong to are shown by default in most recent date order.
 
@@ -118,7 +119,7 @@ The main message screen is divided into two parts.  On the right hand side of th
 
 On the left under the title of **Messages** are all of the communications available for your review.  These are organized in time order by topic. To the right is a note showing the number of days since the posting, the author, the group and a note on number of comments if there are any.  You can also see a highlight button called **more** which allows you to open a new window and see the full posting including comments by others as well as a place for you to add your comment.  When you've made your comment click on **Post comment** and your note will be added.  This screen looks like:
 
-![Conversation 2](schelp/messagescreen6.png "Conversation second screen (hover tooltip)") 
+![Conversation 2](organizer_manual/messagescreen6.png "Conversation second screen (hover tooltip)")
 
 ### New conversation
 
@@ -128,7 +129,7 @@ Clicking on the **start new conversation** button found on the top right hand si
 
 The new conversation box contains several choices and looks like:
 
-![new message](schelp/newmessage7.png "New message screen (hover tooltip)")
+![new message](organizer_manual/newmessage7.png "New message screen (hover tooltip)")
 
 #### Group
 
@@ -182,13 +183,13 @@ Uploading a new document will also add this document to the Library service as w
 
 Finally, click on this button to post your message.
 
-### Filtering messages 
+### Filtering messages
 
 <a name="Filters"></a>
 
 StrataCommons Organizer uses a similar search function in all its services called **Filter messages** (right hand side top under **Start a new conversation** which allows you to enter a search parameter in any of the following drop down boxes:
 
-![Conversation second screenshot](schelp/messagescreen5.png "Conversation second screen (hover tooltip)")
+![Conversation second screenshot](organizer_manual/messagescreen5.png "Conversation second screen (hover tooltip)")
 
 **By group:**  If you click in the **By groups** box, a list of the groups you belong too will appear.  Clicking on any particular group will show only messages for that group.
 
@@ -204,11 +205,11 @@ StrataCommons Organizer uses a similar search function in all its services calle
 
 The **Calendar Service** button is found on the top bar of the web site once you have subscribed to StrataCommons Organizer ((This assumes your computer’s browser is mostly full screen.  If you’re using a tablet or your browser is partial screen, click on the three lines on the far right of the top bar to expand the main menu.)  
 
-![calendar service](schelp/calendar1.png "calendar service (hover tooltip)")
+![calendar service](organizer_manual/calendar1.png "calendar service (hover tooltip)")
 
 When you click on this, a monthly calendar appears showing all of the events happening for the month in the Strata.  The Calendar is organized differently than other services because it needs most of the screen so you can see clearly what's on for the month.  
 
-![calendar service](schelp/calendar2.png)
+![calendar service](organizer_manual/calendar2.png)
 
 You may enter a new event, view events by day, month, year or as a list.  As well you may scroll through the calendar to look to the past or ahead to the future. 
 
@@ -216,7 +217,7 @@ Beneath the services bar at the top of the web page, you will see four titles **
 
 ### Calendar viewing
 
-![calendar service](schelp/calendar6.png)
+![calendar service](organizer_manual/calendar6.png)
 
 If you choose to view the calendar with one of the selections in the bar (except for **Event list**,) you will see the calendar with the month and year in the left hand upper corner, a bar with **Today** in the centre and left and right arrows and a **Create new event** button.  By clicking on the arrows on each side of the **Today** button you may view new calendar pages for the week, month or year either in the future or the past.  Clicking on the **Today** button will take you back to the week, month or year that will display today's date which is always shaded.  Clicking on **New event** will open the screen to create a new calendar event.
 
@@ -226,11 +227,11 @@ If you choose to view the event list you will see a linear list of calendar even
 
 In any view, you may select the **New event** button on the top right hand side and a **New event** box will open. 
 
-![new event](schelp/calendar3.png "calendar new event (hover tooltip)")
+![new event](organizer_manual/calendar3.png "calendar new event (hover tooltip)")
 
 The **New event** box contains several choices including a **Cancel** button on the right hand top.
 
-![calendar groups](schelp/calendar4.png "calendar new event (hover tooltip)")
+![calendar groups](organizer_manual/calendar4.png "calendar new event (hover tooltip)")
 
 #### Group
 
@@ -262,11 +263,11 @@ Finally click on the **Create new event** box at the bottom to create your new c
 
 ### Filtering events
 
-![filter events (alt attribute)](schelp/calendar5.png "calendar filter (hover tooltip)")
+![filter events (alt attribute)](organizer_manual/calendar5.png "calendar filter (hover tooltip)")
 
 You may filter events on the calendar by clicking on **Event list** at the top of the calendar.  This view includes the filtering functions.  StrataCommons Organizer uses a similar search function in all its services found by clicking on **Filter events** (right hand side top under **Create new event** which allows you to enter a search parameter in any of the following drop down boxes:
 
-![filtering](schelp\calendar7.png)
+![filtering](organizer_manual\calendar7.png)
 
 [Filter details](#Filters)
 
@@ -274,7 +275,7 @@ You may filter events on the calendar by clicking on **Event list** at the top o
 
 Located on the main menu at the top of the web application there is a tab called **Requests**.  (This assumes your computer’s browser is mostly full screen.  If you’re using a tablet or your browser is partial screen, click on the three lines on the far right of the top bar to expand the main menu.)  This tab will allow owners to put a common property request that needs addressing by Council on record.  The web application allows Council or the Strata Manager to track this, those involved, dates and final resolution of the request.
 
-![request service](schelp/request1.png)
+![request service](organizer_manual/request1.png)
 
 ### Requests differ from conversations
 
@@ -286,13 +287,13 @@ If an owner should discover a broken tile or shingle on their common property ro
 
 When you first click on **Requests** a window will open showing all of the current concerns under review.  If the owner's issue is already listed, they may click on the request and a new window will open allowing them to add a comment such as "there is another broken tile on unit such and such..."  The council point of contact or the Property Manager will receive the comment and can add this to their review of the situation.
 
-![request service](schelp/request2.png)
+![request service](organizer_manual/request2.png)
 
 ### Creating a new request
 
 If the specific concern isn't already on the board, an owner may click on the **Create new request** button at the far right which will open a new window with the following options available.
 
-![request service](schelp/request3.png)
+![request service](organizer_manual/request3.png)
 
 #### Group
 
@@ -336,27 +337,27 @@ When the owner has written up their request, they should click on **Create reque
 
 This service is found on the top right of the menu bar in normal screen mode between the Message Service and the Library.  
 
-![directory service](schelp/directory1.png)
+![directory service](organizer_manual/directory1.png)
 
 Clicking on the bar opens up a new screen that by defaults shows the **People** in the Strata.  You'll also notice sub titles with **Groups**, **People** and **Units** on the top.
 
-![directory service](schelp/directory2.png)
+![directory service](organizer_manual/directory2.png)
 
 ### People
 
 This service is the address book for your Strata.  In the **People** screen, everyone who signs on to the web application will have their name, relationship to the Corporation, details (most often the unit number) and a check mark under **Email** if they've agreed to receive announcements to their home email.  
 
-![directory service](schelp/directory4.png)
+![directory service](organizer_manual/directory4.png)
 
 The **Relation** column shows the nature of the connection to the Corporation such as an **Owner**, **Tenant** or **Partner.**  (A Partner might be your gardener or maintenance person or other business associate working with the Corporation.)  In addition, the Directory shows what groups individuals belong to such as Council or the Gardening Committee.  For more details concerning an individual, click on their name in the left hand column for their address and email along with details about accepting the terms of service and when they became part of the web site.
 
 In addition, you will see a **Filter people** option on the right of your screen.  
 
-<img src="schelp/directory5.png" alt="filtering" style="zoom:67%;" />
+<img src="organizer_manual/directory5.png" alt="filtering" style="zoom:67%;" />
 
 Clicking on the **Filter people** box opens a drop down menu that lets you quickly enter different ways to see the directory.  
 
-![filtering](schelp/directory6.png)
+![filtering](organizer_manual/directory6.png)
 
 You may choose to list individuals **By relationship** (Owners, Partners or Tenants) by any search term you enter and finally you can sort by A-Z or Z-A.  You may enter information in all of the boxes.  The software is interactive so will begin to sift and sort as you enter data.  You also have access to a **Reset Filters** button below the **Filter people** box.
 
@@ -364,11 +365,11 @@ You may choose to list individuals **By relationship** (Owners, Partners or Tena
 
 Clicking on the **Groups ** button displays a three column chart that shows **Group name** *a spot for icons* and **Group members** which will show users in the group and if they use email or not.  Several **Groups** are set up by the software automatically (Admin, Owners, Partners, Tenants and Council) but the rest can be established by your web site Admin person to reflect the Strata's organizational structure.  These may be committees or working groups.  In addition, your Admin person can set the group's default privacy mode.
 
-![directory service](schelp/directory3.png)
+![directory service](organizer_manual/directory3.png)
 
 Clicking on the highlighted group name gives a brief summary concerning that group which includes:
 
-![group info](schelp/directory7.png)
+![group info](organizer_manual/directory7.png)
 
 #### Members with email and Members without email.
 
@@ -386,22 +387,22 @@ The system administrator may allow a group to send an email to all user's home e
 
 To the right of the **People** button is **Units** which allows you to see the directory organized in Unit order by unit name or number and the Owner or Tenant residing in that location.  
 
-![unit info](schelp/directory8.png)
+![unit info](organizer_manual/directory8.png)
 
 To the far right of the chart, you may see a paper clip icon.  This icon shows that there is a document attached to that unit.  By default, access to the attached document is limited to the Owner and the System Administrator.  (Please see our FAQ's for administrators on how to attach a document to a unit.)  In addition, you will see special fields your administrator may have created, in this case, the screen is showing Parking stall # assigned.  (Again, see our FAQ's for administrators.)
 
-![unit info](schelp/directory9.png)
+![unit info](organizer_manual/directory9.png)
 
 ## The library service
 
 The **Library** Service is found on the main menu bar across the top next to the Directory Service.  (This assumes your computer’s browser is mostly full screen.  If you’re using a tablet or your browser is partial screen, click on the three lines on the far right of the top bar to expand the main menu.)  
 
 
-![library service](schelp/library1.png)
+![library service](organizer_manual/library1.png)
 
 Clicking on this opens the **Documents** screen by default.  You will see another header called **Web links** beside **Documents** which when clicked will show the **Web Link** service.  Many Stratas find these two services invaluable as resource for Strata Owners, Renters or Partners providing access to agendas, contracts, financial statements, and a link to the on line version of the B.C. Strata Act among other things.
 
-![library service](schelp/library2.png)
+![library service](organizer_manual/library2.png)
 
 The default document screen has a large box on the left showing documents listed in date order with their name, group, category and date of creation.  There is a button to **Create new document** on the right at the top and below this is the **Filter documents** service which provides a detailed search functions to control what documents appear on the left.
 
@@ -411,11 +412,11 @@ The **Web links** screen has a similar layout.
 
 In the main screen showing the list of documents, there is a short cut to view the document on the right of the date column where you may click on the **Open** button and skip the details screen if you wish.  There is also a button called **Details** which will open the information screen.
 
-![document view](schelp\library9.png)
+![document view](organizer_manual\library9.png)
 
 n the default document screen, you will see document names highlighted in the left hand column.  Clicking on the document name will open a screen showing more detailed information related to the document including a full description of when it was uploaded, by whom, the group and category.  Any comments on the document made by other strata members are included at the bottom of the screen.  In addition there is a button called **Open file** which when clicked will open the file in the StrataCommons Organizer screen on your web browsers assuming it is a PDF file.
 
-![library service](schelp/library3.png)
+![library service](organizer_manual/library3.png)
 
 
 
@@ -431,7 +432,7 @@ In the **Documents** screen there is a **Create new document** button on the rig
 
 **Hint**  All information entered in the **Create New document** screen is searchable.  Taking the time to enter this information makes document retrieval much easier.
 
-![library service](schelp/library4.png "library service (hover tooltip)")
+![library service](organizer_manual/library4.png "library service (hover tooltip)")
 
 #### Group.
 
@@ -465,7 +466,7 @@ There is a **Cancel** button on the top right side of the screen to stop the doc
 
 StrataCommons Organizer uses a similar search function in all its services called **Filter documents** which allows you to enter a search parameter in any of the following drop down boxes:
 
-![library service](schelp/library5.png)
+![library service](organizer_manual/library5.png)
 
 [Filter details](#Filters)
 
@@ -473,21 +474,21 @@ StrataCommons Organizer uses a similar search function in all its services calle
 
 Clicking on the **Web links** button at the top of the screen on the left will open the web links service. You will see a list of the available web link names on the left with a Web Address beside them.   
 
-![web link service](schelp/library6.png)
+![web link service](organizer_manual/library6.png)
 
 Clicking on the web address will take you directly from StrataCommons Organizer to that web site.  Clicking on the web link name will give you further details on the link to help you decide if the link is the best one for you to use.
 
-![web link service](schelp/library10.png)
+![web link service](organizer_manual/library10.png)
 
 #### Adding web links
 
 On the top of your application on the right hand side there is a **Create new web link** button that will open a screen allowing you to create a new web link.
 
-![web link service](schelp/library7.png)
+![web link service](organizer_manual/library7.png)
 
 All information entered in the **Create a new web link** screen are searchable.  Taking the time to enter this information makes document retrieval much easier.  The following screen opens:
 
-![web link service](schelp/library11.png)
+![web link service](organizer_manual/library11.png)
 
 ##### Group.
 
@@ -517,13 +518,13 @@ Click in the **Description** box and enter a one or two sentence detailed descri
 
 StrataCommons Organizer uses a similar search function in all its services found by clicking on **Filter web links** (right hand side top under **Create new web link** which allows you to enter a search parameter in any of the following drop down boxes:
 
-![web link service](schelp/library8.png)
+![web link service](organizer_manual/library8.png)
 
 [Filter details](#Filters)
 
 ## The website service
 
-![web site service](schelp/webservice.png)
+![web site service](organizer_manual/webservice.png)
 
 Every strata that subscribes is provided with a website available to the public if the Strata chooses to do so.  Your system administrator or those in the web group administrator may add photos which will be cycled through on the web site as well as relevant titles and text.  The website will be found at https://stratacommons.ca/*the-strata name*.  Clicking on the service in the main menu will take you directly to the website as it currently exists.  Members of the web group or system administrators may contact StrataCommons for details on how to set up their website.
 
