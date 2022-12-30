@@ -1,7 +1,7 @@
 ---
 title: Size and number of document.
 nav_order: 
-parent: Organizer Admin - FAQ
+parent: Organizer - Admin FAQ
 ---
 # Size and number of documents.
 

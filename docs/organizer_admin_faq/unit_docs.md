@@ -1,7 +1,7 @@
 ---
 title: Unit document attachment.
 nav_order: 
-parent: Organizer Admin - FAQ
+parent: Organizer - Admin FAQ
 ---
 
 # Unit document attachment.

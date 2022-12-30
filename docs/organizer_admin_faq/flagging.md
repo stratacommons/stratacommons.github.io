@@ -1,7 +1,7 @@
 ---
 title: Flagged conversations.
 nav_order: 
-parent: Organizer Admin - FAQ
+parent: Organizer - Admin FAQ
 ---
 
 # Flagged conversations.

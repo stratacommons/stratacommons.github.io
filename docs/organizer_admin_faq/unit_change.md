@@ -1,7 +1,7 @@
 ---
 title: Unit number change.
 nav_order: 
-parent: Organizer Admin - FAQ
+parent: Organizer - Admin FAQ
 ---
 
 # Unit number change.

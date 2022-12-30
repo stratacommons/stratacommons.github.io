@@ -1,7 +1,7 @@
 ---
 title: Inappropriate conversation or document postings. 
 nav_order: 
-parent: Organizer Admin - FAQ
+parent: Organizer - Admin FAQ
 ---
 
 # Inappropriate conversation or document postings.

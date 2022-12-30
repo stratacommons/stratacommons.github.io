@@ -1,7 +1,7 @@
 ---
 title: Forum access for owners.
 nav_order: 
-parent: Organizer Admin - FAQ
+parent: Organizer - Admin FAQ
 ---
 
 # Forum access for owners.

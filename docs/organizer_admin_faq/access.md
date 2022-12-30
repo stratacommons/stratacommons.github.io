@@ -1,7 +1,7 @@
 ---
 title: Accessing the organizer.
 nav_order: 
-parent: Organizer Admin - FAQ
+parent: Organizer - Admin FAQ
 ---
 
 # Accessing the organizer.

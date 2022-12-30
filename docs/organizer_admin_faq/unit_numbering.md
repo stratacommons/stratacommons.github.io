@@ -1,7 +1,7 @@
 ---
 title: Floor by floor unit numbering.
 nav_order: 
-parent: Organizer Admin - FAQ
+parent: Organizer - Admin FAQ
 ---
 
 # Floor by floor unit numbering

@@ -1,7 +1,7 @@
 ---
 title: Setting up your strata.
 nav_order: 
-parent: Organizer Admin - FAQ
+parent: Organizer - Admin FAQ
 ---
 
 # Setting up your strata.
