@@ -8,5 +8,5 @@ permalink: /
 # StrataCommons Documentation
 {: .fs-9 }
 
-Welcome to the StrataCommons documentation site. In the left sidebar you find documentation for the Forum as well as for the Organizer.
+Welcome to the StrataCommons documentation site. In the left sidebar you find links to documentation for the Forum as well as for the Organizer.
 {: .fs-6 .fw-300 }
