@@ -1,8 +1,9 @@
 ---
-layout: default
-title: Organizer Admin FAQ
-nav_order: 2
+description: "StrataCommons Organizer Admin FAQ"
 has_children: true
+layout: default
+nav_order: 2
+title: Organizer - Admin FAQ
 ---
 
 # Organizer Admin FAQ.
