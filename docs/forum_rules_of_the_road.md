@@ -1,7 +1,8 @@
 ---
-description: "StrataCommons Forum Rules of the Road"
-title: Forum - Rules of the Road
+description: "StrataCommons Forum - Rules of the Road"
+layout: default
 nav_order: 2
+title: Forum - Rules of the Road
 ---
 
 # StrataCommons Forum - Rules of the Road.

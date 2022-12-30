@@ -1,11 +1,11 @@
 ---
-description: "StrataCommons Organizer Manual"
+description: "StrataCommons Organizer - Manual"
 layout: default
 nav_order: 2
 title: Organizer - Manual
 ---
 
-# StrataCommons Manual.
+# StrataCommons Organizer - Manual
 {: .no_toc }
 
 ## Table of contents

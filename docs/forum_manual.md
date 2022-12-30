@@ -1,12 +1,11 @@
 ---
-description: "StrataCommons Forum Manual"
+description: "StrataCommons Forum - Manual"
 layout: default
 nav_order: 2
 title: Forum - Manual
 ---
 
-# Forum Manual
-
+# StrataCommons Forum - Manual
 {: .no_toc }
 
 ## Table of contents
