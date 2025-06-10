@@ -25,7 +25,7 @@ As a default, we have entered **Parking stall #** and **Pet** in the next field 
 
 ![enable](custom_fields/dataenable.png)
 
-You've got five custom fields that you can set up for parking stalls, key fobs, pets etc.  Once you've set up the fields you want, click on **Update strata** and you return to your strata's main information page under **Admin.**
+You've got nine custom fields that you can set up for parking stalls, key fobs, pets etc.  Once you've set up the fields you want, click on **Update strata** and you return to your strata's main information page under **Admin.**
 
 ![update](custom_fields/update.png)
 
