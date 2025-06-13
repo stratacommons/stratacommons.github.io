@@ -42,6 +42,6 @@ You've got nine custom fields that you can set up for parking stalls, key fobs, 
 
 You may now add your custom data for individual units using the directory service.   
 
-The list of units in the directory only shows public custom fields. In order to see protected fields, an authorized user has to go to the unit's details using the edit function.  
+The list of units in the directory only shows public custom fields. In order to see protected fields, an authorized user has to go to the unit's details.
 
 ![update](custom_fields/protected.png)
