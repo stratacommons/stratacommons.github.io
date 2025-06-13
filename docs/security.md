@@ -16,7 +16,7 @@ At StrataCommons we follow industry best practices around security and privacy:
 
 **Strong Password Security**: All user passwords are individually salted and hashed using secure cryptographic algorithms.
 
-**Hardened Server Infrastructure**: Our application runs on hardened Ubuntu servers configured with the principle of least privilege and ongoing patch management.
+**Hardened Server Infrastructure**: Our application runs on hardened Linux servers configured with the principle of least privilege and ongoing patch management.
 
 **Logging and Monitoring**: We use logging and monitoring tools to detect anomalies, failed logins, and potential abuse patterns.
 
@@ -42,4 +42,4 @@ At StrataCommons we follow industry best practices around security and privacy:
 
 **Incident Response Ready**: We maintain and periodically test an incident response plan to quickly mitigate and respond to security issues.
 
-**Experienced Staff**: All StrataCommons software developers and system administrators have deep industry experience and follow security best practices on their personal devices.
+**Experienced Staff**: All StrataCommons software developers and system administrators have deep industry experience and follow security best practices when working on StrataCommons.
