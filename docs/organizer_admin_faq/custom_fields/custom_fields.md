@@ -12,7 +12,6 @@ After you've logged in you'll find yourself on the **Conversation page.**  On th
 
 ![choose admin](custom_fields/gotoadmin.png)
 
-
 A new window opens and you may click **Edit strata.**  
 
 ![choose edit](custom_fields/chooseedit.png)
